@@ -2,21 +2,21 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.kinser-hub.top"
+    "link": "https://blog.kinser.top"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://alist.kinser-hub.top/"
+    "link": "https://alist.kinser.top/"
   },
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.kinser-hub.top"
+    "link": "https://nav.kinser.top"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://nezha.kinser-hub.top"
+    "link": "https://nezha.kinser.top"
   }
 ]
