@@ -21,6 +21,12 @@
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
-    "url": "mailto:one@xiaolongxia300@163.com"
+    "url": "mailto:one@email@kinser.top"
+  },
+  {
+    "name": "Telegram",
+    "icon": "/images/icon/telegram.png",
+    "tip": "你懂的 ~",
+    "url": "https://t.me/kinser666"
   }
 ]
