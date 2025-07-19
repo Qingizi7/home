@@ -2,21 +2,31 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.kinser.top"
+    "link": "https://blog.kinser.top/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://alist.kinser.top/"
+    "link": "https://oplist.kinser.top/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "音乐",
+    "link": "https://music.kinser.top/"
   },
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://nav.kinser.top"
+    "link": "https://st.kinser.top/"
+  },
+  {
+    "icon": "Book",
+    "name": "AI站",
+    "link": "http://ai.kinser.top:33242/"
   },
   {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://nezha.kinser.top"
+    "link": "https://nezha.kinser.top/"
   }
 ]
